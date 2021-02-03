@@ -21,7 +21,7 @@ export const homeObjTwo = {
     lightText: false,
     lightTextDesc: false,
     topLine: 'Unlimited Access',
-    headline: 'Login to our account at any time',
+    headline: 'Login to your account at any time',
     description: 'We have you covered no matter where you are located. All you need is an internet onnection and a phone or computer.',
     buttonLabel: 'Learn More',
     imgStart: true,
