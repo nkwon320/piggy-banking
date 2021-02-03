@@ -22,7 +22,7 @@ export const homeObjTwo = {
     lightTextDesc: false,
     topLine: 'Unlimited Access',
     headline: 'Login to your account at any time',
-    description: 'We have you covered no matter where you are located. All you need is an internet onnection and a phone or computer.',
+    description: 'We have you covered no matter where you are located. All you need is an internet connection and a phone or computer.',
     buttonLabel: 'Learn More',
     imgStart: true,
     img: require('../../images/svg-2.svg').default,
