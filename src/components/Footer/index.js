@@ -66,7 +66,7 @@ const Footer = () => {
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SocialLogo to="/" onClick={toggleHome}>Piggy Banking</SocialLogo>
-                        <WebsiteRights>dolla © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
+                        <WebsiteRights>Piggy Banking © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href="/" target="_blank" aria-label="Facebook">
                                 <FaFacebook />
